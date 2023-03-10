@@ -1,8 +1,5 @@
-### Hi there 👋
-
-Hi I´m Ufano Pro
-
-I´m a IT fan- 
+### Hi I´m Ufano Pro 👋
+### I´m a IT fan
 🔭 I’m currently working on ...
   IT developer at Valencia - Spain
 🌱 I’m currently learning ...
